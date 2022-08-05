@@ -1,0 +1,47 @@
+nav{
+
+  display: flex;
+  margin-left: 20px;
+  margin-top: 20px;
+  /* justify-content: space-around; */
+  
+   
+}
+.nav-items{
+  
+   display: flex;  
+   margin-left: 20px;
+   justify-content: space-around;
+   
+   
+
+}
+.nav-items{
+    justify-content: space-between;
+
+
+}
+.left-section h3{
+     
+    margin-left: 30px; 
+
+} 
+.left-section h1{
+
+    margin-left: 30px;    
+}
+
+ .sub-headlines{
+        
+     margin-left: 50px;
+     
+    
+
+
+ }
+ .sub-headline{
+
+    color: white;
+    border-color: rgb(237, 32, 32);
+    margin-left: 100px;
+ }
